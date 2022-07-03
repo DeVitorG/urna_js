@@ -75,6 +75,7 @@ function clicou(n){
     playAudio('urna_tecla');
 }
 function branco(){
+    playAudio('urna_tecla');
     if(numero === ''){
         votoBranco = true;
         seuVotoPara.style.display = 'block';
@@ -87,6 +88,7 @@ function branco(){
     }
 }
 function corrige(){
+    playAudio('urna_tecla');
     comecarEtapa();
 }
 function confirma(){
