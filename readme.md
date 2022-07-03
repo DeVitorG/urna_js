@@ -1,5 +1,8 @@
 # Urna Eletrônica
 Uma urna eletrônica para a prática de HTML,CSS e JS.
+
+Para testar utilize o link: https://devitorg.github.io/urna_js/.
+
 <hr>
 1º Passo: Você irá preencher com os botões para candidatos já cadastrados no arquivo etapas.js, onde estarão disponíveis os vereadores (77222) e (38111).
 <img src="/examples/1.png" width=600 height=300/>
